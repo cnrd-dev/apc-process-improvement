@@ -1,6 +1,6 @@
 # Measuring process improvements of Advanced Process Control (APC)
 
-A blog post on Medium gives an overview of the project and discusses the results.
+A [blog post]() on Medium gives an overview of the project and discusses the results.
 
 ## Motivation
 
@@ -18,18 +18,18 @@ Three key questions:
 - Energy analysis notebooks: Uses daily data to build a regression model to predict expected energy consumption and compare with actual energy consumption.
 - myLib: Custom package containing functions used for data analysis.
 
-## How to use
+## How to run the notebooks
 
 Dependencies and virtual environment details are located in the `Pipfile` which can be used with `pipenv`.
 
-## Licensing
+## License
 
 GNU GPL v3
 
-## Author and
+## Author
 
 Analysis done by Coenraad Pretorius.
 
 ## Acknowledgement
 
-Acknowledgement to Emre @ https://emredjan.github.io/blog/2017/07/11/emulating-r-plots-in-python/ for code on diagnostic plots.
+Acknowledgement to Emre for the code on [diagnostic plots](https://emredjan.github.io/blog/2017/07/11/emulating-r-plots-in-python/).
