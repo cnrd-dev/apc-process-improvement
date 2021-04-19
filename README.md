@@ -1,6 +1,6 @@
 # Measuring process improvements of Advanced Process Control (APC)
 
-A [blog post]() on Medium gives an overview of the project and discusses the results.
+A [blog post](https://medium.com/@coenraad-pretorius/measuring-process-improvements-with-advanced-process-control-32945f3ff2e5) on Medium gives an overview of the project and discusses the results.
 
 ## Motivation
 
